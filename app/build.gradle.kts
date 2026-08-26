@@ -5,7 +5,7 @@ plugins {
 }
 
 android {
-    namespace = "jpvpilon.github.com.todolist"
+    namespace = "jpvpilon.com.github.todolist"
     compileSdk {
         version = release(36) {
             minorApiLevel = 1

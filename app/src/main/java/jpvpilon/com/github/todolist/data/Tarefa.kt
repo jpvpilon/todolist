@@ -1,4 +1,4 @@
-package jpvpilon.github.com.todolist.data
+package jpvpilon.com.github.todolist.data
 
 import androidx.room.Entity
 import androidx.room.PrimaryKey

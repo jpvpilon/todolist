@@ -1,6 +1,5 @@
-package jpvpilon.github.com.todolist.ui.theme
+package jpvpilon.com.github.todolist.ui.theme
 
-import android.app.Activity
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme

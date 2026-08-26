@@ -1,8 +1,8 @@
-package jpvpilon.github.com.todolist.repository
+package jpvpilon.com.github.todolist.repository
 
 
-import jpvpilon.github.com.todolist.data.Tarefa
-import jpvpilon.github.com.todolist.data.TarefaDao
+import jpvpilon.com.github.todolist.data.Tarefa
+import jpvpilon.com.github.todolist.data.TarefaDao
 import kotlinx.coroutines.flow.Flow
 
 class TarefaRepository(private val dao: TarefaDao) {

@@ -1,13 +1,13 @@
-package jpvpilon.github.com.todolist.viewmodel
+package jpvpilon.com.github.todolist.viewmodel
 
 
 import android.content.Context
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
 import androidx.lifecycle.viewModelScope
-import jpvpilon.github.com.todolist.data.Tarefa
-import jpvpilon.github.com.todolist.data.TarefaDatabase
-import jpvpilon.github.com.todolist.repository.TarefaRepository
+import jpvpilon.com.github.todolist.data.Tarefa
+import jpvpilon.com.github.todolist.data.TarefaDatabase
+import jpvpilon.com.github.todolist.repository.TarefaRepository
 import kotlinx.coroutines.flow.SharingStarted
 import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.flow.stateIn

@@ -1,4 +1,4 @@
-package jpvpilon.github.com.todolist.data
+package jpvpilon.com.github.todolist.data
 
 import android.content.Context
 import androidx.room.Database

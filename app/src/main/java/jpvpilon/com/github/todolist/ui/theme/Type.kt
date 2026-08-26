@@ -1,4 +1,4 @@
-package jpvpilon.github.com.todolist.ui.theme
+package jpvpilon.com.github.todolist.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

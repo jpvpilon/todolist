@@ -1,4 +1,4 @@
-package jpvpilon.github.com.todolist.ui.theme
+package jpvpilon.com.github.todolist.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

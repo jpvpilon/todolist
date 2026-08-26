@@ -1,4 +1,4 @@
-package jpvpilon.github.com.todolist
+package jpvpilon.com.github.todolist
 
 import org.junit.Test
 
