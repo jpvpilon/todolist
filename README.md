@@ -84,3 +84,14 @@ Abra o projeto no Android Studio e execute em um emulador ou dispositivo físico
 ```
 
 ## Evidencias
+
+<p align="center">
+  <img src="app/docs/evidencias/Captura%20de%20tela%202026-08-26%20233622.png" width="30%" />
+  <img src="app/docs/evidencias/Captura%20de%20tela%202026-08-26%20233708.png" width="30%" />
+  <img src="app/docs/evidencias/Captura%20de%20tela%202026-08-26%20233800.png" width="30%" />
+</p>
+<p align="center">
+  <img src="app/docs/evidencias/Captura%20de%20tela%202026-08-26%20233828.png" width="30%" />
+  <img src="app/docs/evidencias/Captura%20de%20tela%202026-08-26%20233851.png" width="30%" />
+  <img src="app/docs/evidencias/Captura%20de%20tela%202026-08-26%20234143.png" width="30%" />
+</p>
